@@ -1,10 +1,12 @@
-# Salary VS YearsExperience
+# Fish in markets
 
 <br>
 
 ***notes***:
 
-its machine learning project calculat the salry based on Years of Experience...
+its machine learning project calculat the fish weghit based on hight/width in chines market...
+
+<!-- its machine learning project calculat the salry based on Years of Experience... -->
 
 <br>
 
